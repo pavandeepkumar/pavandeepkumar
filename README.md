@@ -20,7 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kumar_pavndeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kumar_pavndeep" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pavandeep-kumar-0b036621" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavandeep-kumar-0b036621" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pavandeep-kumar-0b0366231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavandeep-kumar-0b036621" height="30" width="40" /></a>
+
 <a href="https://fb.com/pavandeep-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pavandeep-kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/pavandeep_kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pavandeep_kumar" height="30" width="40" /></a>
 </p>
