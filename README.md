@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on *React Js, Node JS*
 
-- 🌱 I’m currently learning *JavaScript, React, Node, Java, Python*
+- Learning Advance Data Structure and Try to solve Complex problem Efficiently 
 
 - 👨‍💻 All of my projects are available at [https://pavandeep.vercel.app/](https://pavandeep.vercel.app/)
 
